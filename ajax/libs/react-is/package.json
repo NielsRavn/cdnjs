@@ -1,7 +1,7 @@
 {
   "name": "react-is",
   "version": "16.12.0",
-  "filename": "react-is.min.js",
+  "filename": "umd/react-is.production.min.js",
   "description": "Brand checking of React Elements.",
   "homepage": "https://reactjs.org/",
   "keywords": [
