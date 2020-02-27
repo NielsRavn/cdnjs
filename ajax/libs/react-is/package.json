@@ -1,6 +1,5 @@
 {
   "name": "react-is",
-  "version": "16.12.0",
   "filename": "umd/react-is.production.min.js",
   "description": "Brand checking of React Elements.",
   "homepage": "https://reactjs.org/",
@@ -14,12 +13,6 @@
   },
   "npmName": "react-is",
   "npmFileMap": [
-    {
-      "basePath": "dist",
-      "files": [
-        "**/*"
-      ]
-    },
     {
       "basePath": "",
       "files": [
